@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PrimerEvaluacion</string>
+    <string name="nuevo_estudiante">Nuevo estudiante</string>
+    <string name="lista_estudiantes">Lista de estudiantes</string>
+    <string name="mi_nombre">Mario Adalberto Rivera Olivo</string>
+    <string name="hint_nota">0.0</string>
+    <string name="label_parcial1">Parcial 1:</string>
+    <string name="label_parcial2">Parcial 2:</string>
+    <string name="label_parcial3">Parcial 3:</string>
+    <string name="guardar">Guardar registro</string>
+    <string name="dialog_title">Advertencia</string>
+    <string name="dialog_message">Si regresa perderá los datos no guardados ¿Regresar?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="error_message">Debe llenar este campo</string>
+</resources>
